@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>c_black.png</file>
+        <file>c_black_jar.png</file>
+        <file>c_board.jpg</file>
+        <file>c_white.png</file>
+        <file>c_white_jar.png</file>
+        <file>c_tip.png</file>
+        <file>c_lose.png</file>
+        <file>c_win.png</file>
+        <file>c_tie.png</file>
+    </qresource>
+</RCC>
